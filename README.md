@@ -1,1 +1,2 @@
-# cse163_finial-
+# cse163_final
+This is our cse163 final project
